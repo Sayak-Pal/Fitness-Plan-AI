@@ -143,6 +143,10 @@ The app uses a modern design system with:
 
 This project is licensed under the ISC License.
 
+## Owner
+
+Sayak Pal 
+
 ## 🔮 Future Enhancements
 
 - Exercise video demonstrations
