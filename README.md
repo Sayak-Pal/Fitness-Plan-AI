@@ -145,7 +145,7 @@ This project is licensed under the ISC License.
 
 ## Owner
 
-Sayak Pal 
+Sayak , Ritwik , Praneeth , Ankit
 
 ## 🔮 Future Enhancements
 
